@@ -1,4 +1,4 @@
-# CAN FD Communication Example on RA Boards
+# CAN FD
 
 ## Table of Contents
 1. [Introduction](#introduction)
